@@ -1,0 +1,14 @@
+package com.rays.ctl;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class WelcomeCtl {
+
+	@GetMapping
+	public String display() {
+
+		return "Welcome.jsp";
+
+	}
+
+}

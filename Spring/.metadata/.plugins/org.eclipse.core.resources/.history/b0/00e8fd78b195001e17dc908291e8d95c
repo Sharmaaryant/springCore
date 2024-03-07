@@ -1,0 +1,10 @@
+package com.rays.form;
+
+public class UserRegistrationForm {
+	private long id;
+	private String firstName;
+	private String lastName;
+	private String login;
+	
+
+}

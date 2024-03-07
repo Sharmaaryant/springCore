@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springcore/src/main/resources/Lifecycle1.xml&apos; to &apos;LifeCycle1.xml&apos;" description="Rename resource &apos;Lifecycle1.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/Lifecycle1.xml" name="LifeCycle1.xml" stamp="1700991142694" updateReferences="true"/>
+</session>

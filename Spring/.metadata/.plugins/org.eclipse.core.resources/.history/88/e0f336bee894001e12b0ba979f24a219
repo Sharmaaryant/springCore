@@ -1,0 +1,9 @@
+package com.rays.ctl;
+
+public class WelcomeCtl {
+	
+	public String displayMethod() {
+		
+	}
+
+}
